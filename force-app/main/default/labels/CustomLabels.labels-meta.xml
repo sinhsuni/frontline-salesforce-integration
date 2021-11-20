@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomLabels xmlns="http://soap.sforce.com/2006/04/metadata">
+    <labels>
+        <fullName>setting_days</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>setting:template</shortDescription>
+        <value>10</value>
+    </labels>
+    <labels>
+        <fullName>setting_template_blockKeywords</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>setting:template:configuration</shortDescription>
+        <value>percentage,percent,%,guaranteed return,guarantee,guaranteed,returned</value>
+    </labels>
+    <labels>
+        <fullName>setting_template_case</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>setting:template</shortDescription>
+        <value>Case # ${usercase.CaseNumber} : ${usercase.Subject}</value>
+    </labels>
+    <labels>
+        <fullName>setting_template_stocks</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>setting:template</shortDescription>
+        <value>Have you thought about adding  ${recommendation.Ticker_Symbol__c} on your portfolio. Please click the ${recommendation.File_Link__c} link to get the detail report.</value>
+    </labels>
+    <labels>
+        <fullName>setting_template_task</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>setting:template</shortDescription>
+        <value>Your task is due on ${task.ActivityDate}, send your home insurance document to your financial adviser ${task.Owner.Name} at ${task.Owner.Email}.</value>
+    </labels>
+    <labels>
+        <fullName>setting_template_video</fullName>
+        <language>en_US</language>
+        <protected>true</protected>
+        <shortDescription>setting:template</shortDescription>
+        <value>Join a secure video conversation, click the following link https://video-app-3067-8279-dev.twil.io?passcode=66347630678279 .</value>
+    </labels>
+</CustomLabels>
