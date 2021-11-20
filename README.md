@@ -3,7 +3,9 @@ This Salesforce code base provides the functionalities to display data dynamical
 
 Prerequsits:
     1. Twilio Phone Number
+
     2. Front line user name:
+    
     3. Salesforce Developer Sandbox: Provision a Salesforce developer sandbox (https://developer.salesforce.com/signup) 
 
 ## Deployment
