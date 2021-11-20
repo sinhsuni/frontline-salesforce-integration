@@ -29,6 +29,8 @@ Step 7: Configure Custom Labels to display dynamic Frontline tamplates.
         1. CaseNumber
         2. Subject
     4. setting_template_stocks: Display custom object Recommendation data. You can configure following Recommendation object properties.
+        1. File_Link__c
+        2. Ticker_Symbol__c
     5. setting_template_task : Disaply customer scheduled tasks as template in Frontline.You can configure following Task object properties.
         1. ActivityDate
         2. Owner.Name
